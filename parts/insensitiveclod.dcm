@@ -6,4 +6,9 @@ K DEV
 F TOS23101 SM22301
 $ENDCMP
 #
+$CMP ht16k33-28-sopa
+D Led matrix/keyboard scanner
+K LED driver, matrix, keyscan
+$ENDCMP
+#
 #End Doc Library
