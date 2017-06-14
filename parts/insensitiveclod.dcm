@@ -6,9 +6,14 @@ K DEV
 F TOS23101 SM22301
 $ENDCMP
 #
-$CMP ht16k33-28-sopa
+$CMP HT16K33-28-SOPA
 D Led matrix/keyboard scanner
 K LED driver, matrix, keyscan
+$ENDCMP
+#
+$CMP MAX31865AAP(SSOP20)
+D RTD to Digital Convertor (SPI)
+K pt100 rtd SPI
 $ENDCMP
 #
 #End Doc Library
