@@ -14,10 +14,12 @@ Part:
 - 7 Segments display, common cathode, pin-layout according to TOS23101/SM22301
 - Holtek HT16K33 LED-matrix/segment driver + keyboard scanner. 28-pin version
 - MAXIM MAX31865AAP (20 pin SSOP version), RTD (PT100) to digital (SPI) convertor
+- MAXIM MAX31865 module , adafruit-style; including screw-terminals as pins to connect to board
 
 Footprint:
 - 7-segment display, TOS23101/SM22301, 2.3" in size
 - HT16K33, 28-pin SOP-A version; uses builtin SOIC28 3dpackge
+- MAXIM MAX31865 Ardafruit module.
 
 3D-package:
 - 7-Segment display, TOS23101/SM22301, 2.3" in size
