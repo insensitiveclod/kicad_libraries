@@ -6,6 +6,12 @@ K DEV
 F TOS23101 SM22301
 $ENDCMP
 #
+$CMP BTS117
+D Smart Lowside Power Switch
+K FET N-FET
+F /home/arndm/Projects/electronics/kicad/libraries/private/kicad_libraries/parts/documents/BTS117-siemens-to262-3.pdf
+$ENDCMP
+#
 $CMP HT16K33-28-SOPA
 D Led matrix/keyboard scanner
 K LED driver, matrix, keyscan
