@@ -12,6 +12,7 @@ As such, I have chosen to instead use the following approach:
 
 Part:
 - 7 Segments display, common cathode, pin-layout according to TOS23101/SM22301
+- BTS117 - Smart Low-side Power Switch ; Current-limiting FET-switch; TO-262-2 package
 - Holtek HT16K33 LED-matrix/segment driver + keyboard scanner. 28-pin version
 - MAXIM MAX31865AAP (20 pin SSOP version), RTD (PT100) to digital (SPI) convertor
 - MAXIM MAX31865 module , adafruit-style; including screw-terminals as pins to connect to board
